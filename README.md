@@ -27,7 +27,7 @@ python3 Grecon.py
 
 Referring to Redbull BugBounty Programme [Here](https://www.intigriti.com/programs/redbull/redbull/detail)  here's a demo : 
 
-![Alt text](https://raw.githubusercontent.com/adnane-X-tebbaa/imgs/master/demo1.gif)
+![Alt text](https://raw.githubusercontent.com/adnane-X-tebbaa/imgs/master/demo5.gif)
 
 # GRecon_Cli : 
 in Grecon_cli you can use your own ***Google Dorks*** 
