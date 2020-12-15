@@ -3,6 +3,8 @@
 [![Github All Releases](https://img.shields.io/badge/GRecon%20-V1.0-green)]()
 [![Github All Releases](https://img.shields.io/badge/support-python%203.7%2F3.8%20%2B-brightgreen)]()
 [![Github All Releases](https://img.shields.io/badge/platform-windows%20%7C%20linux-lightgrey)]()
+[![License](https://img.shields.io/badge/license-MIT-_red.svg)](https://opensource.org/licenses/MIT)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/adnane-x-tebbaa/Grecon/issues)
 [![Github All Releases](https://img.shields.io/twitter/follow/TebbaaX)]()
 
 
