@@ -39,4 +39,4 @@ Referring to Redbull BugBounty Program [Here](https://www.intigriti.com/programs
 ![Alt text](https://raw.githubusercontent.com/adnane-X-tebbaa/imgs/master/demo7.gif)
 
 # GRecon_Cli : 
-in Grecon_cli you can use your own ***Google Dorks*** (Still Under Dev) 
+in Grecon_cli you can use your own ***Google Dorks*** (Still in Dev) 
