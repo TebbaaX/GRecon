@@ -30,4 +30,4 @@ Referring to Redbull BugBounty Programme [Here](https://www.intigriti.com/progra
 ![Alt text](https://raw.githubusercontent.com/adnane-X-tebbaa/imgs/master/demo1.gif)
 
 # GRecon_Cli : 
-in Grecon_cli you can use your own ***Google Dorks*** More then that it can be used with [Tomnomnom's](https://github.com/tomnomnom/unfurl) [***unfurl***](https://github.com/tomnomnom/unfurl) and [***GHDB***](https://www.exploit-db.com/google-hacking-database) to Create powerfull Wordlists 
+in Grecon_cli you can use your own ***Google Dorks*** More than that it can be used with [Tomnomnom's](https://github.com/tomnomnom/unfurl) [***unfurl***](https://github.com/tomnomnom/unfurl) and [***GHDB***](https://www.exploit-db.com/google-hacking-database) to Create powerfull Wordlists 
