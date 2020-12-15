@@ -1,4 +1,11 @@
 ![Alt text](https://raw.githubusercontent.com/adnane-X-tebbaa/imgs/master/grecon4.jpg)
+
+
+[![Github All Releases](https://img.shields.io/badge/support-python%203.7%2F3.8%20%2B-brightgreen)]()
+[![Github All Releases](https://img.shields.io/badge/platform-windows%20%7C%20linux-lightgrey)]()
+[![Github All Releases](https://img.shields.io/twitter/follow/TebbaaX)]()
+
+
 # GRecon : 
 **GRecon** (*Greei-Conn*) is a simple python tool that automates the process of Google Based Recon AKA ***Google Dorking***
 The current Version 1.0 Run 7 Search Queries (*7 Micro-Plugins*)  on the spicified Target Providing Awsome Results
