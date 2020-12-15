@@ -15,3 +15,12 @@ Current Version Run Google Search Queries to find :
   - Records in patsebin,Ghostbin...
   
 
+## Installation :
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirements
+
+```bash
+cd GRecon
+python3 -m pip install -r requirements.txt
+python3 Grecon.py
+```
