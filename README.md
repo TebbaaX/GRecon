@@ -25,4 +25,4 @@ python3 -m pip install -r requirements.txt
 python3 Grecon.py
 ```
 
-Referring to Redbull BugBounty Programme [pip](https://www.intigriti.com/programs/redbull/redbull/detail)  here's a demo : 
+Referring to Redbull BugBounty Programme [Here](https://www.intigriti.com/programs/redbull/redbull/detail)  here's a demo : 
