@@ -1,6 +1,6 @@
 ![Alt text](https://raw.githubusercontent.com/adnane-X-tebbaa/imgs/master/grecon4.jpg)
 
-
+[![Github All Releases](https://img.shields.io/badge/GRecon%20-V1.0-green)]()
 [![Github All Releases](https://img.shields.io/badge/support-python%203.7%2F3.8%20%2B-brightgreen)]()
 [![Github All Releases](https://img.shields.io/badge/platform-windows%20%7C%20linux-lightgrey)]()
 [![Github All Releases](https://img.shields.io/twitter/follow/TebbaaX)]()
