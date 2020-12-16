@@ -127,7 +127,10 @@ query = "site:" + key + " inurl:wp- | inurl:wp-content | inurl:plugins | inurl:u
 for gamma in search(query, tld=zolo, num=30 , stop=60 , pause=2): 
     print("" + gamma) 
 print ("") 
-os.remove(".google-cookie") 
+if os.path.exists(".google-cookie"):
+    os.remove(".google-cookie")
+else:
+    pass
 
 #Moving...
 from plugins import pasting
