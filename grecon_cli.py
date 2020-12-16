@@ -15,7 +15,7 @@ from http import cookiejar
 
 
 
-TLD = ["com","com.tw","co.in"]
+TLD = ["com","ru","com.hk"]
 beta  = random.choice(TLD)
 s = requests.Session() 
 
