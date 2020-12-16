@@ -31,7 +31,7 @@ query = "site:pastebin.com | site:hastebin.com | site:carbon.now.sh " + key
 for gamma in search(query, tld=zolo, num=30 , stop=60 , pause=2): 
     print("" + gamma) 
 print ("") 
-os.remove(".google-cookie") 
-exit()
+if os.path.exists(".google-cookie"):
+ os.remove(".google-cookie")
 os.remove("grecon.config") 
 print(colored ('[>] Done...Happy Hunting' ,'green'))
