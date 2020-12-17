@@ -3,14 +3,18 @@
 #Github : https://www.github.com/adnane-x-tebbaa/Grecon 
 #Twitter : @TebbaaX 
 
-import os 
-import sys
-import time
-import requests 
-import random 
+import os , sys , time , requests , random 
 from googlesearch import search
 from termcolor import colored, cprint
-from http import cookiejar 
+from http import cookiejar
+from urllib.parse import urlparse 
+
+Subdomains = []
+
+def SubdomainFilter(URL):
+    Parsed = urlparse(URL); Scheme = Parsed.scheme; Host = Parsed.netloc; URL = Scheme + "://" + Host + "/"
+    if URL not in Subdomains:
+        print(URL); Subdomains.append(URL)
 
 if os.path.exists("alpha.txt"):
   print("")  
@@ -72,19 +76,21 @@ print("")
 print(colored ('[>] Looking For Subdomains...' ,'green')) 
 query = "site:" + key + " -www." + key                            #SubTech1  
 for gamma in search(query, tld=beta, num=30 , stop=60 , pause=2): 
-    print("" + gamma)   
+    SubdomainFilter(URL=gamma) 
 query = "site:*." + key                                           #SubTech2
 for gamma in search(query, tld=beta, num=30 , stop=60 , pause=2): 
-    print("" + gamma) 
-print("")     
+    SubdomainFilter(URL=gamma)
+print("")
+
 if os.path.exists(".google-cookie"):
  os.remove(".google-cookie")
 
 print(colored ('[>] Looking For Sub-Subdomains...' ,'green')) 
 query = "site:*.*." + key
 for gamma in search(query, tld=beta, num=30 , stop=60 , pause=2): 
-    print("" + gamma) 
+    SubdomainFilter(URL=gamma) 
 print("")
+
 if os.path.exists(".google-cookie"):
  os.remove(".google-cookie")
 
