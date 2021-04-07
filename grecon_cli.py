@@ -9,6 +9,7 @@ import sys
 import time
 import requests 
 import random 
+import readline
 from googlesearch import search
 from termcolor import colored, cprint
 from http import cookiejar 
