@@ -3,7 +3,7 @@
 #Github : https://www.github.com/adnane-x-tebbaa/Grecon 
 #Twitter : @TebbaaX 
 
-import os , sys , time , requests , random 
+import os , sys , time , requests , random , readline
 from googlesearch import search
 from termcolor import colored, cprint
 from http import cookiejar
