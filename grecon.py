@@ -1,6 +1,4 @@
 #GRecon : Google Recon V1.0
-#Coded by Adnane X Tebbaa
-#Github : https://www.github.com/adnane-x-tebbaa/Grecon 
 #Twitter : @TebbaaX 
 
 import os , sys , time , requests , random , readline
